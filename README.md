@@ -1,1 +1,5 @@
-# Front-end_web_development
+# Study plan
+
+1. Въведение. WWW, HTTP/HTTPS в детайли, браузъри, инструменти за разработка.Git
+
+
