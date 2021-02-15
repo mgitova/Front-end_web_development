@@ -13,4 +13,4 @@
 11. JavaScript в детайли III-та част - Destructuring Assignment, Модули, Maps, WeakMaps, Sets, WeakSets
 12. Въведение в UI5 Web Components - Концепция, приложение, архитектура
 13. Полезни програмни интерфейси и услуги при разработка на уеб приложения. Firebase, geolocation API, LocalStorage API, http://myjson.com/, WebIDE
-14. Едностранични Уеб Приложения, MVC, ШаблониКонцепции и пример за MVC
+14. Едностранични Уеб Приложения, MVC, Шаблони. Концепции и пример за MVC
